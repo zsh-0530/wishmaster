@@ -1,4 +1,4 @@
-# wish_newmaster
+# wish
 
 A new Flutter project.
 
